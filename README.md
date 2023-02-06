@@ -5,13 +5,39 @@
 O curso Programaria é uma iniciativa que visa ensinar mulheres a programar e criar soluções tecnológicas. 
 
 <h2>Conteúdo abordado no curso</h2>
-- Fundamentos de programação
-- Lógica de programação
-- HTML
-- CSS
-- JavaScript
-- Desenvolvimento web
 
+- Conceitos Básicos de JavaScript
+<ul>
+ Sintaxe do JavaScript
+- Inputs e Formulários
+- Lógica de Interação
+- Condições
+- Funções no JavaScript</ul>
+
+- Conceitos Básicos de CSS
+<ul>
+ Sintaxe do CSS
+- Ajustando e estilizando fontes e textos
+- Ajustando planos de fundo
+- Classes e IDs
+- Margens e Padding
+- Menus, âncoras e hierarquia de seletores</ul>
+
+- Conceito básicos de HTML
+<ul>
+ Tags e a Linguagem de Marcação
+- Hierarquia, identação e estrutura
+- Imagens e Acessibilidade
+- Listas
+- Adicionando Links</ul>
+
+- Dicas de Carreira em Tecnologia
+<ul>
+ Dia a dia da pessoa Front End
+- Carreiras no Front End
+- Mapa de Possibilidades: o que faço agora?
+- Materiais para ir além: continue seus estudos!
+</ul>
 <h2>Meus projetos</h2>
 <p>Durante o curso, desenvolvi projetos práticos para aplicar os conceitos aprendidos. </p>
 
@@ -23,4 +49,5 @@ O curso Programaria é uma iniciativa que visa ensinar mulheres a programar e cr
 
 
 
-
+<img src="https://uploaddeimagens.com.br/images/004/330/908/original/certificado.programaria_page-0001.jpg?1675653363" alt="Minha Figura">
+  
